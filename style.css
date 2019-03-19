@@ -1,0 +1,47 @@
+body{
+	color:#00008B;
+	font-family:Sans-serif;
+	width:80%;
+	background-image:url("vilagterkep.jpg");
+	margin:20px auto;
+	padding:0 10px;
+	font-size:14pt;
+}
+
+#cím{
+	font-size:60pt;
+	text-align:center;
+}
+
+#kozep{
+	text-align:center;
+}
+
+div{
+	
+}
+
+#alcím{
+	font-size:36pt;
+	text-align:center;
+}
+
+table{
+	background-color:#C4F4FD;
+}
+
+#bal{
+	width: 26%;
+	float: left;
+}
+
+
+
+h1{
+	font-size:30pt;
+	text-align:left;
+}
+
+table tr td:last-child{
+	text-align:right;
+}
